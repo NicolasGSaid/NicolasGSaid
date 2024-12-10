@@ -11,7 +11,6 @@
   
 
 
-<br>![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolasGSaid&show_icons=true&theme=gruvbox )
 
 
 <div style="display: inline_block">
