@@ -7,6 +7,7 @@
 - 👯 I am looking to collaborate on projects that enrich my portfolio!
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: I'm a video game enthusiast who went too far in his passion and now seeks to program!
+- 📨 Contact me via email: nicolasgithub2@gmail.com
   
 
 
