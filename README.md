@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello! I'm Nicolas Dias, it will be a pleasure to meet you!😊✌
 
 
 
@@ -8,3 +8,4 @@
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: I'm a video game enthusiast who went too far in his passion and now seeks to program!
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NicolasGSaid)](https://github.com/anuraghazra/github-readme-stats)
