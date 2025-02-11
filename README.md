@@ -7,7 +7,8 @@
 - 👯 I am looking to collaborate on projects that enrich my portfolio!
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: I'm a video game enthusiast who went too far in his passion and now seeks to program!
-- 📨 Contact me via email: nicolasgithub2@gmail.com
+- 📨 Contact me via email: nicolasg.dias04@gmail.com
+
   
 
 
@@ -18,6 +19,8 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg">
+  <img align="center" alt="Rafa-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg">
 </div>
           
 <br><div> 
