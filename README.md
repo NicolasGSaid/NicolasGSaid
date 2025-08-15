@@ -12,7 +12,8 @@
   
 
 
-
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
 
 <div style="display: inline_block">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -26,7 +27,14 @@
 
   <a href="https://www.instagram.com/ncs_said/?igsh=MWtlYmJ1dThqOHQwMw%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/nicolas-gabriel-dias-2a157a332/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://api.whatsapp.com/send/?phone=14998114241&text&type=phone_number&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a> 
+  <a href="https://api.whatsapp.com/send/?phone=14998114241&text&type=phone_number&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
+  <i class="devicon-java-plain colored"></i>
+
+
+ 
+          
+  
+  
 
 </div>
 
