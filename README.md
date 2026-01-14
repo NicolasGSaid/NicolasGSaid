@@ -1,8 +1,3 @@
-Peço desculpas pelo erro de formatação anterior. O código quebrou porque o arquivo contém blocos de código internos (as crases triplas), o que confunde o visualizador se não for escapado corretamente.
-
-Aqui está o código **completo e corrigido**, dentro de um bloco seguro para copiar, com as menções à "Alest Consultoria" removidas:
-
-```markdown
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=120&section=header"/>
@@ -97,5 +92,3 @@ const nicolas = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=100&section=footer"/>
 
 </div>
-
-```
