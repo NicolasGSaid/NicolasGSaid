@@ -1,3 +1,8 @@
+Peço desculpas pelo erro de formatação anterior. O código quebrou porque o arquivo contém blocos de código internos (as crases triplas), o que confunde o visualizador se não for escapado corretamente.
+
+Aqui está o código **completo e corrigido**, dentro de um bloco seguro para copiar, com as menções à "Alest Consultoria" removidas:
+
+```markdown
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=120&section=header"/>
@@ -15,7 +20,7 @@
   </a>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&random=false&width=500&lines=Software+Developer+%40+Alest;React+%7C+Next.js+%7C+TypeScript;Python+%7C+FastAPI+%7C+AWS;Building+Scalable+Cloud+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&random=false&width=500&lines=Software+Developer;React+%7C+Next.js+%7C+TypeScript;Python+%7C+FastAPI+%7C+AWS;Building+Scalable+Cloud+Solutions" alt="Typing SVG" />
 
 </div>
 
@@ -27,7 +32,7 @@
 const nicolas = {
     pronouns: "he/him",
     location: "São Paulo, Brasil 🇧🇷",
-    role: "Fullstack Developer Jr @ Alest Consultoria",
+    role: "Fullstack Developer Jr",
     education: "Computer Science @ UNIP",
     currentlyLearning: "AWS Developer Associate",
     funFact: "AI won't replace devs, but devs using AI will replace those who don't! 🚀"
@@ -92,3 +97,5 @@ const nicolas = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7C3AED&height=100&section=footer"/>
 
 </div>
+
+```
